@@ -8,6 +8,12 @@
 	<false/>
 	<key>BBLMColorsSyntax</key>
 	<true/>
+	<key>BBLMCommentLineDefault</key>
+	<string>//</string>
+	<key>BBLMCommentPrefixDefault</key>
+	<string>/*</string>
+	<key>BBLMCommentSuffixDefault</key>
+	<string>*/</string>
 	<key>BBLMIsCaseSensitive</key>
 	<true/>
 	<key>BBLMKeywordList</key>
